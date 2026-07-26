@@ -1,0 +1,14 @@
+{
+  "name": "XEmbedFixer",
+  "description": "Rewrites X/Twitter links to a selectable embed-friendly service.",
+  "authors": [
+    {
+      "name": "brainage04",
+      "id": "0"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "LinkIcon"
+  }
+}
